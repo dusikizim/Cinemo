@@ -1,0 +1,18 @@
+bein-sports-1-turkey|beIN Sports 1 Turkey|Spor
+bein-sports-2-turkey|beIN Sports 2 Turkey|Spor
+bein-sports-3-turkey|beIN Sports 3 Turkey|Spor
+bein-sports-4-turkey|beIN Sports 4 Turkey|Spor
+bein-sports-5-turkey|beIN Sports 5 Turkey|Spor
+arena-sport-1-premium|Arena Sport 1 Premium|World Sports
+arena-sport-2-premium|Arena Sport 2 Premium|World Sports
+arena-sport-3-premium|Arena Sport 3 Premium|World Sports
+arena-sport-1-serbia|Arena Sport 1 Serbia|World Sports
+arena-sport-2-serbia|Arena Sport 2 Serbia|World Sports
+arena-sport-3-serbia|Arena Sport 3 Serbia|World Sports
+arena-sport-4-serbia|Arena Sport 4 Serbia|World Sports
+arena-sport-5-serbia|Arena Sport 5 Serbia|World Sports
+arena-sport-6-serbia|Arena Sport 6 Serbia|World Sports
+arena-sport-7-serbia|Arena Sport 7 Serbia|World Sports
+arena-sport-8-serbia|Arena Sport 8 Serbia|World Sports
+arena-sport-9-serbia|Arena Sport 9 Serbia|World Sports
+arena-sport-10-serbia|Arena Sport 10 Serbia|World Sports
