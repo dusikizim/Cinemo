@@ -1,0 +1,5 @@
+bein-sports-1-turkey|beIN SPORTS 1 Turkey-TR|World Sports
+bein-sports-2-turkey|beIN SPORTS 2 Turkey-TR|World Sports
+bein-sports-3-turkey|beIN SPORTS 3 Turkey-TR|World Sports
+bein-sports-4-turkey|beIN SPORTS 4 Turkey-TR|World Sports
+bein-sports-5-turkey|bein Sports 5 Turkey-TR|World Sports
