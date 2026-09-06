@@ -1,0 +1,211 @@
+# format: slug|Kanal Adı|Grup/Ülke
+# Gruplar: USA, UK, Spain, France, Germany, Italy, Portugal, Turkey, Poland, Brazil, Argentina
+# Serbia, Croatia, Bulgaria, Romania, Greece, Israel, Netherlands, Denmark, Sweden, Norway
+# Australia, New Zealand, Canada, South Africa, India, Pakistan, UAE, Qatar, Saudi Arabia
+# Mexico, Colombia, Uruguay, Bangladesh, Malaysia, Ireland, Cyprus, Czech Republic, Bosnia
+# Adult
+
+abc-usa|ABC|USA
+ahc-american-heroes-channel|AHC American Heroes Channel|USA
+antenna-tv-usa|Antenna TV|USA
+a-e-usa|A&E|USA
+amc-usa|AMC|USA
+animal-planet|Animal Planet|USA
+adult-swim|Adult Swim|USA
+abc-ny-usa|ABC NY|USA
+acc-network-usa|ACC Network|USA
+axs-tv-usa|AXS TV|USA
+cw-pix-11-usa|CW PIX 11|USA
+cbs-usa|CBS|USA
+court-tv-usa|Court TV|USA
+cw-usa|CW|USA
+cnbc-usa|CNBC|USA
+comedy-central|Comedy Central|USA
+cartoon-network|Cartoon Network|USA
+cnn-usa|CNN|USA
+cinemax-usa|Cinemax|USA
+cbs-sports-network|CBS Sports Network|USA
+cbs-sports-golazo|CBS Sports Golazo|USA
+cozi-tv-usa|Cozi TV|USA
+cmt-usa|CMT|USA
+crime-plus-investigation-usa|Crime + Investigation|USA
+comet-usa|Comet|USA
+cooking-channel-usa|Cooking Channel|USA
+c-span-1|C-SPAN 1|USA
+cbsny-usa|CBS NY|USA
+chicago-sports-network|Chicago Sports Network|USA
+discovery-channel|Discovery Channel|USA
+discovery-life-channel|Discovery Life|USA
+discovery-family|Discovery Family|USA
+destination-america|Destination America|USA
+disney-channel|Disney Channel|USA
+disney-xd|Disney XD|USA
+disney-jr|Disney Jr|USA
+espn-usa|ESPN|USA
+espn2-usa|ESPN 2|USA
+espnu-usa|ESPNU|USA
+espnews|ESPNews|USA
+espn-deportes|ESPN Deportes|USA
+e-entertainment-television|E! Entertainment|USA
+fox-sports-1-usa|Fox Sports 1|USA
+fox-sports-2-usa|Fox Sports 2|USA
+fox-soccer-plus|Fox Soccer Plus|USA
+fox-deportes-usa|Fox Deportes|USA
+fox-business|Fox Business|USA
+fox-usa|FOX|USA
+fx-usa|FX|USA
+fxx-usa|FXX|USA
+freeform|Freeform|USA
+fox-news|Fox News|USA
+fx-movie-channel|FX Movie Channel|USA
+fyi|FYI|USA
+fuse-tv-usa|Fuse TV|USA
+fetv-family-entertainment-television|FETV|USA
+foxny-usa|FOX NY|USA
+fox-weather-channel|Fox Weather|USA
+fight-network|Fight Network|USA
+fanduel-sports-network-arizona|FanDuel SN Arizona|USA
+fanduel-sports-network-detroit|FanDuel SN Detroit|USA
+fanduel-sports-network-florida|FanDuel SN Florida|USA
+fanduel-sports-network-great-lakes|FanDuel SN Great Lakes|USA
+fanduel-sports-network-indiana|FanDuel SN Indiana|USA
+fanduel-sports-network-kansas-city|FanDuel SN Kansas City|USA
+fanduel-sports-network-midwest|FanDuel SN Midwest|USA
+fanduel-sports-network-new-orleans|FanDuel SN New Orleans|USA
+fanduel-sports-network-north|FanDuel SN North|USA
+fanduel-sports-network-ohio|FanDuel SN Ohio|USA
+fanduel-sports-network-oklahoma|FanDuel SN Oklahoma|USA
+fanduel-sports-network-socal|FanDuel SN SoCal|USA
+fanduel-sports-network-south|FanDuel SN South|USA
+fanduel-sports-network-southeast|FanDuel SN Southeast|USA
+fanduel-sports-network-sun|FanDuel SN Sun|USA
+fanduel-sports-network-west|FanDuel SN West|USA
+fanduel-sports-network-wisconsin|FanDuel SN Wisconsin|USA
+golf-channel-usa|Golf Channel|USA
+game-show-network|Game Show Network|USA
+goltv-usa|GolTV|USA
+great-american-family-channel-gac|Great American Family|USA
+galavision-usa|Galavision|USA
+grit-channel|Grit|USA
+the-hallmark-channel|Hallmark Channel|USA
+hallmark-movies-and-mysteries|Hallmark Movies & Mysteries|USA
+heroes-and-icons-hi-usa|Heroes & Icons|USA
+hbo-usa|HBO|USA
+hbo2-usa|HBO 2|USA
+hbo-comedy-usa|HBO Comedy|USA
+hbo-family-usa|HBO Family|USA
+hbo-latino-usa|HBO Latino|USA
+hbo-signature-usa|HBO Signature|USA
+hbo-zone-usa|HBO Zone|USA
+history-usa|History|USA
+headline-news|HLN|USA
+hgtv|HGTV|USA
+investigation-discovery-id-usa|Investigation Discovery|USA
+ion-usa|ION|USA
+ifc-tv-usa|IFC|USA
+law-crime-network|Law & Crime Network|USA
+lifetime-network|Lifetime|USA
+lifetime-movies-network|Lifetime Movies|USA
+logo-tv-usa|Logo TV|USA
+msg|MSG|USA
+msnbc|MSNBC|USA
+magnolia-network|Magnolia Network|USA
+mtv-usa|MTV|USA
+mavtv-usa|MAVTV|USA
+mlb-network-usa|MLB Network|USA
+masn-usa|MASN|USA
+my9tv-usa|My9 TV|USA
+motor-trend|Motor Trend|USA
+metv-usa|MeTV|USA
+mgm-plus-epix-usa|MGM+|USA
+marquee-sports-network|Marquee Sports Network|USA
+monumental-sports-network|Monumental Sports|USA
+nbc10-philadelphia|NBC10 Philadelphia|USA
+nhl-network-usa|NHL Network|USA
+nfl-redzone|NFL RedZone|USA
+nfl-network|NFL Network|USA
+nba-tv-usa|NBA TV|USA
+nbc-usa|NBC|USA
+nbc-sports-philadelphia|NBC Sports Philadelphia|USA
+nbc-sports-bay-area|NBC Sports Bay Area|USA
+nbc-sports-boston|NBC Sports Boston|USA
+nbc-sports-california|NBC Sports California|USA
+nbcny-usa|NBC NY|USA
+nesn-usa|NESN|USA
+newsnation-usa|NewsNation|USA
+national-geographic|National Geographic|USA
+nat-geo-wild-usa|Nat Geo Wild|USA
+t-sports-bd|T Sports|Bangladesh
+
+# Hungary
+m4-sports|M4 Sport|Hungary
+vodafone-sport|Vodafone Sport|Hungary
+
+# Africa
+canal-plus-sport-1-afrique|Canal+ Sport 1|Africa
+canal-plus-sport-2-afrique|Canal+ Sport 2|Africa
+canal-plus-sport-3-afrique|Canal+ Sport 3|Africa
+canal-plus-sport-4-afrique|Canal+ Sport 4|Africa
+canal-plus-sport-5-afrique|Canal+ Sport 5|Africa
+
+# Bosnia
+arena-sport-1-bih|Arena Sport 1|Bosnia
+arena-sport-1-premium|Arena Sport 1 Premium|Bosnia
+arena-sport-2-premium|Arena Sport 2 Premium|Bosnia
+arena-sport-3-premium|Arena Sport 3 Premium|Bosnia
+
+# Cyprus
+cytavision-sports-1-cyprus|Cytavision Sports 1|Cyprus
+cytavision-sports-2-cyprus|Cytavision Sports 2|Cyprus
+cytavision-sports-3-cyprus|Cytavision Sports 3|Cyprus
+cytavision-sports-4-cyprus|Cytavision Sports 4|Cyprus
+cytavision-sports-5-cyprus|Cytavision Sports 5|Cyprus
+cytavision-sports-6-cyprus|Cytavision Sports 6|Cyprus
+cytavision-sports-7-cyprus|Cytavision Sports 7|Cyprus
+
+# Czech Republic
+canal-plus-sport-cz|Canal+ Sport|Czech Republic
+ct-sport-cz|CT Sport|Czech Republic
+nova-sport|Nova Sport 1|Czech Republic
+nova-sport-cz-2|Nova Sport 2|Czech Republic
+nova-sport-cz-3|Nova Sport 3|Czech Republic
+nova-sport-cz-4|Nova Sport 4|Czech Republic
+nova-sport-cz-5|Nova Sport 5|Czech Republic
+nova-sport-cz-6|Nova Sport 6|Czech Republic
+premier-sport-cz-1|Premier Sport 1|Czech Republic
+premier-sport-cz-2|Premier Sport 2|Czech Republic
+premier-sport|Premier Sport|Czech Republic
+oneplay-sport-cz-1|OnePlay Sport 1|Czech Republic
+oneplay-sport-cz-2|OnePlay Sport 2|Czech Republic
+oneplay-sport-cz-3|OnePlay Sport 3|Czech Republic
+
+# Misc
+pdc-tv|PDC TV|Darts
+rally-tv|Rally TV|Motorsport
+fashion-tv|Fashion TV|Entertainment
+boomerang|Boomerang|Kids
+mtv|MTV|Music
+tennis-plus-10|Tennis+ 10|Tennis
+tennis-plus-12|Tennis+ 12|Tennis
+
+# Adult
+18-plus-18|18+ Channel 1|Adult
+18-plus-18-alt1|18+ Channel 2|Adult
+18-plus-18-alt2|18+ Channel 3|Adult
+18-plus-18-alt3|18+ Channel 4|Adult
+18-plus-18-alt4|18+ Channel 5|Adult
+18-plus-18-alt5|18+ Channel 6|Adult
+18-plus-18-alt6|18+ Channel 7|Adult
+18-plus-18-alt7|18+ Channel 8|Adult
+18-plus-18-alt8|18+ Channel 9|Adult
+18-plus-18-alt9|18+ Channel 10|Adult
+18-plus-18-alt10|18+ Channel 11|Adult
+18-plus-18-alt11|18+ Channel 12|Adult
+18-plus-18-alt12|18+ Channel 13|Adult
+18-plus-18-alt13|18+ Channel 14|Adult
+18-plus-18-alt14|18+ Channel 15|Adult
+18-plus-18-alt15|18+ Channel 16|Adult
+18-plus-18-alt16|18+ Channel 17|Adult
+18-plus-18-alt17|18+ Channel 18|Adult
+18-plus-18-alt18|18+ Channel 19|Adult
+18-plus-18-alt19|18+ Channel 20|Adult
