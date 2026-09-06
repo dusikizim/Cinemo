@@ -1,0 +1,210 @@
+{
+  "last_update": "2026-08-16 21:59:00 UTC",
+  "channel_count": 414,
+  "groups": {
+    "Argentina": 4,
+    "Australia": 25,
+    "Austria": 10,
+    "Belgium": 1,
+    "Brazil": 12,
+    "Bulgaria": 12,
+    "Canada": 14,
+    "Chile": 1,
+    "Cyprus": 7,
+    "Czech Republic": 3,
+    "Denmark": 11,
+    "France": 26,
+    "Germany": 26,
+    "Greece": 10,
+    "Israel": 10,
+    "Italy": 5,
+    "Mexico": 4,
+    "Netherlands": 8,
+    "New Zealand": 10,
+    "Poland": 17,
+    "Portugal": 19,
+    "Romania": 6,
+    "Russia": 5,
+    "Saudi Arabia": 6,
+    "Spain": 11,
+    "Sweden": 7,
+    "Turkey": 8,
+    "UAE": 3,
+    "UK": 36,
+    "USA": 96,
+    "Uruguay": 1
+  },
+  "stream_cache": {
+    "ABC_us": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ABC&code=us&user=cdnlivetv&plan=free",
+      "time": 1786917460.944078,
+      "direct": false
+    },
+    "BBC_us": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=BBC&code=us&user=cdnlivetv&plan=free",
+      "time": 1786917461.00033,
+      "direct": false
+    },
+    "ACC Network_us": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ACC%20Network&code=us&user=cdnlivetv&plan=free",
+      "time": 1786917461.060372,
+      "direct": false
+    },
+    "Arizona Diamondbacks_us": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Arizona%20Diamondbacks&code=us&user=cdnlivetv&plan=free",
+      "time": 1786917461.0801737,
+      "direct": false
+    },
+    "Altitude_us": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Altitude&code=us&user=cdnlivetv&plan=free",
+      "time": 1786917461.0874994,
+      "direct": false
+    },
+    "BBC One_gb": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One&code=gb&user=cdnlivetv&plan=free",
+      "time": 1786917461.1010237,
+      "direct": false
+    },
+    "Astro Cricket_us": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Astro%20Cricket&code=us&user=cdnlivetv&plan=free",
+      "time": 1786917461.1066253,
+      "direct": false
+    },
+    "Abu Dhabi Sports 1_ae": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Abu%20Dhabi%20Sports%201&code=ae&user=cdnlivetv&plan=free",
+      "time": 1786917461.143686,
+      "direct": false
+    },
+    "BBC Four_gb": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Four&code=gb&user=cdnlivetv&plan=free",
+      "time": 1786917461.145117,
+      "direct": false
+    },
+    "Atlanta Braves_us": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Atlanta%20Braves&code=us&user=cdnlivetv&plan=free",
+      "time": 1786917461.157849,
+      "direct": false
+    },
+    "BBC Two_gb": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two&code=gb&user=cdnlivetv&plan=free",
+      "time": 1786917463.529188,
+      "direct": false
+    },
+    "BBC Three_gb": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Three&code=gb&user=cdnlivetv&plan=free",
+      "time": 1786917463.5762901,
+      "direct": false
+    },
+    "CNBC_us": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=CNBC&code=us&user=cdnlivetv&plan=free",
+      "time": 1786917463.8234582,
+      "direct": false
+    },
+    "CBS_us": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=CBS&code=us&user=cdnlivetv&plan=free",
+      "time": 1786917463.8471735,
+      "direct": false
+    },
+    "BET_us": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=BET&code=us&user=cdnlivetv&plan=free",
+      "time": 1786917463.8933227,
+      "direct": false
+    },
+    "CBS Sports Golazo_us": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%20Sports%20Golazo&code=us&user=cdnlivetv&plan=free",
+      "time": 1786917463.9401689,
+      "direct": false
+    },
+    "Boston Red Sox_us": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Boston%20Red%20Sox&code=us&user=cdnlivetv&plan=free",
+      "time": 1786917463.9868345,
+      "direct": false
+    },
+    "Baltimore Orioles_us": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Baltimore%20Orioles&code=us&user=cdnlivetv&plan=free",
+      "time": 1786917463.9920638,
+      "direct": false
+    },
+    "CNN_us": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=CNN&code=us&user=cdnlivetv&plan=free",
+      "time": 1786917463.995407,
+      "direct": false
+    },
+    "Benfica TV_pt": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Benfica%20TV&code=pt&user=cdnlivetv&plan=free",
+      "time": 1786917464.0096514,
+      "direct": false
+    "beIN SPORTS 6_sa": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%206&code=sa&user=cdnlivetv&plan=free",
+      "time": 1786917539.6768563,
+      "direct": false
+    },
+    "beIN SPORTS 7_sa": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%207&code=sa&user=cdnlivetv&plan=free",
+      "time": 1786917539.822956,
+      "direct": false
+    },
+    "beIN SPORTS 8_sa": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%208&code=sa&user=cdnlivetv&plan=free",
+      "time": 1786917539.8604767,
+      "direct": false
+    },
+    "beIN SPORTS 9_sa": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%209&code=sa&user=cdnlivetv&plan=free",
+      "time": 1786917539.91924,
+      "direct": false
+    },
+    "beIN SPORTS MAX 10_fr": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%2010&code=fr&user=cdnlivetv&plan=free",
+      "time": 1786917539.9207778,
+      "direct": false
+    },
+    "beIN SPORTS MAX 4_fr": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%204&code=fr&user=cdnlivetv&plan=free",
+      "time": 1786917539.9324405,
+      "direct": false
+    },
+    "beIN SPORTS MAX 6_fr": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%206&code=fr&user=cdnlivetv&plan=free",
+      "time": 1786917539.9575748,
+      "direct": false
+    },
+    "beIN SPORTS MAX 5_fr": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%205&code=fr&user=cdnlivetv&plan=free",
+      "time": 1786917539.9644244,
+      "direct": false
+    },
+    "beIN SPORTS MAX 7_fr": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%207&code=fr&user=cdnlivetv&plan=free",
+      "time": 1786917540.0265203,
+      "direct": false
+    },
+    "beIN SPORTS MAX 8_fr": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%208&code=fr&user=cdnlivetv&plan=free",
+      "time": 1786917540.071511,
+      "direct": false
+    },
+    "beIN SPORTS MAX 9_fr": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%209&code=fr&user=cdnlivetv&plan=free",
+      "time": 1786917540.2857313,
+      "direct": false
+    },
+    "beIN SPORTS N_es": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20N&code=es&user=cdnlivetv&plan=free",
+      "time": 1786917540.4612124,
+      "direct": false
+    },
+    "beIN SPORTS XTRA_es": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20XTRA&code=es&user=cdnlivetv&plan=free",
+      "time": 1786917540.4958694,
+      "direct": false
+    },
+    "truTV_us": {
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=truTV&code=us&user=cdnlivetv&plan=free",
+      "time": 1786917540.5379725,
+      "direct": false
+    }
+  },
+  "direct_count": 0,
+  "fallback_count": 414
+}
