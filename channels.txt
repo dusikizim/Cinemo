@@ -1,0 +1,194 @@
+abc-usa|ABC USA-US|World Sports
+ahc-american-heroes-channel|AHC (American Heroes Channel)-US|World Sports
+antenna-tv-usa|Antenna TV USA-US|World Sports
+a-e-usa|A&E USA-US|World Sports
+amc-usa|AMC USA-US|World Sports
+animal-planet|Animal Planet-US|World Sports
+astro-supersport-1|Astro SuperSport 1-MY|World Sports
+astro-supersport-2|Astro SuperSport 2-MY|World Sports
+astro-supersport-3|Astro SuperSport 3-MY|World Sports
+astro-supersport-4|Astro SuperSport 4-MY|World Sports
+arena-sport-1-premium|Arena Sport 1 Premium-RS|World Sports
+arena-sport-2-premium|Arena Sport 2 Premium-RS|World Sports
+arena-sport-3-premium|Arena Sport 3 Premium-RS|World Sports
+arena-sport-1-serbia|Arena Sport 1 Serbia-RS|World Sports
+arena-sport-2-serbia|Arena Sport 2 Serbia-RS|World Sports
+arena-sport-3-serbia|Arena Sport 3 Serbia-RS|World Sports
+arena-sport-4-serbia|Arena Sport 4 Serbia-RS|World Sports
+arena-sport-1-croatia|Arena Sport 1 Croatia-HR|World Sports
+arena-sport-2-croatia|Arena Sport 2 Croatia-HR|World Sports
+arena-sport-3-croatia|Arena Sport 3 Croatia-HR|World Sports
+arena-sport-4-croatia|Arena Sport 4 Croatia-HR|World Sports
+alkass-one|Alkass One-QA|World Sports
+alkass-two|Alkass Two-QA|World Sports
+alkass-three|Alkass Three-QA|World Sports
+alkass-four|Alkass Four-QA|World Sports
+arena-sport-1-bih|Arena Sport 1 BiH-BA|World Sports
+abu-dhabi-sports-1-uae|Abu Dhabi Sports 1 UAE-AE|World Sports
+abu-dhabi-sports-2-uae|Abu Dhabi Sports 2 UAE-AE|World Sports
+abu-dhabi-sports-1-premium|Abu Dhabi Sports 1 Premium-AE|World Sports
+abu-dhabi-sports-2-premium|Abu Dhabi Sports 2 Premium-AE|World Sports
+astro-cricket|Astro Cricket-MY|World Sports
+antena-3-spain|Antena 3 Spain-ES|World Sports
+arena-sports-tenis-serbia|Arena Sports Tenis Serbia-RS|World Sports
+acc-network-usa|ACC Network USA-US|World Sports
+adult-swim|Adult Swim-US|World Sports
+a-sport-pk|A Sport PK-PK|World Sports
+axn-movies-portugal|AXN Movies Portugal-PT|World Sports
+arte-de|Arte DE-DE|World Sports
+axs-tv-usa|AXS TV USA-US|World Sports
+abc-ny-usa|ABC NY USA-US|World Sports
+azteca-7-mx|Azteca 7 MX-MX|World Sports
+altitude-sports|Altitude Sports-US|World Sports
+azteca-uno-mx|Azteca Uno MX-MX|World Sports
+arena-sport-5-serbia|Arena Sport 5 Serbia-RS|World Sports
+arena-sport-6-serbia|Arena Sport 6 Serbia-RS|World Sports
+arena-sport-7-serbia|Arena Sport 7 Serbia-RS|World Sports
+arena-sport-8-serbia|Arena Sport 8 Serbia-RS|World Sports
+arena-sport-9-serbia|Arena Sport 9 Serbia-RS|World Sports
+arena-sport-10-serbia|Arena Sport 10 Serbia-RS|World Sports
+arte-france|Arte France-FR|World Sports
+automoto-la-chaine|Automoto La chaîne-FR|World Sports
+atv-turkey|ATV Turkey-TR|World Sports
+a-spor-turkey|A Spor Turkey-TR|World Sports
+bein-sports-mena-english-1|beIN Sports MENA English 1-QA|World Sports
+bein-sports-mena-english-2|beIN Sports MENA English 2-QA|World Sports
+bein-sports-1-arabic|beIN Sports 1 Arabic-QA|World Sports
+bein-sports-2-arabic|beIN Sports 2 Arabic-QA|World Sports
+bein-sports-3-arabic|beIN Sports 3 Arabic-QA|World Sports
+bein-sports-4-arabic|beIN Sports 4 Arabic-QA|World Sports
+bein-sports-5-arabic|beIN Sports 5 Arabic-QA|World Sports
+bein-sports-6-arabic|beIN Sports 6 Arabic-QA|World Sports
+bein-sports-7-arabic|beIN Sports 7 Arabic-QA|World Sports
+bein-sports-8-arabic|beIN Sports 8 Arabic-QA|World Sports
+bein-sports-9-arabic|beIN Sports 9 Arabic-QA|World Sports
+bein-sports-xtra-1|beIN SPORTS XTRA 1-US|World Sports
+bein-sports-max-4-france|beIN Sports MAX 4 France-FR|World Sports
+bein-sports-max-5-france|beIN Sports MAX 5 France-FR|World Sports
+bein-sports-max-6-france|beIN Sports MAX 6 France-FR|World Sports
+bein-sports-max-7-france|beIN Sports MAX 7 France-FR|World Sports
+bein-sports-max-8-france|beIN Sports MAX 8 France-FR|World Sports
+bein-sports-max-9-france|beIN Sports MAX 9 France-FR|World Sports
+bein-sports-max-10-france|beIN Sports MAX 10 France-FR|World Sports
+bein-sports-1-france|beIN SPORTS 1 France-FR|World Sports
+bein-sports-2-france|beIN SPORTS 2 France-FR|World Sports
+bein-sports-3-france|beIN SPORTS 3 France-FR|World Sports
+
+bein-sports-hd-qatar|BeIN Sports HD Qatar-QA|World Sports
+bein-sports-usa|BeIN SPORTS USA-US|World Sports
+bein-sports-en-espanol|beIN SPORTS en Español-US|World Sports
+bein-sports-1-australia|beIN SPORTS Australia 1-AU|World Sports
+bein-sports-2-australia|beIN SPORTS Australia 2-AU|World Sports
+bein-sports-3-australia|beIN SPORTS Australia 3-AU|World Sports
+barca-tv-spain|Barca TV Spain-ES|World Sports
+benfica-tv-pt|Benfica TV PT-PT|World Sports
+boomerang|Boomerang-US|World Sports
+bnt-1-bulgaria|BNT 1 Bulgaria-BG|World Sports
+bnt-2-bulgaria|BNT 2 Bulgaria-BG|World Sports
+bnt-3-bulgaria|BNT 3 Bulgaria-BG|World Sports
+br-fernsehen-de|BR Fernsehen DE-DE|World Sports
+btv-bulgaria|bTV Bulgaria-BG|World Sports
+btv-action-bulgaria|bTV Action Bulgaria-BG|World Sports
+btv-lady-bulgaria|bTV Lady Bulgaria-BG|World Sports
+bbc-america|BBC America (BBCA)-US|World Sports
+bet-usa|BET USA-US|World Sports
+bravo-usa|Bravo USA-US|World Sports
+bbc-news-channel-hd|BBC News Channel HD-GB|World Sports
+bbc-one-uk|BBC One UK-GB|World Sports
+bbc-two-uk|BBC Two UK-GB|World Sports
+bbc-three-uk|BBC Three UK-GB|World Sports
+bbc-four-uk|BBC Four UK-GB|World Sports
+big-ten-network-btn-usa|BIG TEN Network (BTN USA)-US|World Sports
+bein-sports-1-malaysia|beIN Sports 1 Malaysia-MY|World Sports
+bein-sports-2-malaysia|beIN Sports 2 Malaysia-MY|World Sports
+bein-sports-3-malaysia|beIN Sports 3 Malaysia-MY|World Sports
+bfm-tv-france|BFM TV France-FR|World Sports
+
+bandsports-brasil|Bandsports Brasil-BR|World Sports
+canal-plus-motogp-france|Canal+ MotoGP France-FR|World Sports
+canal-plus-formula-1|Canal+ Formula 1-FR|World Sports
+cw-pix-11-usa|CW PIX 11 USA-US|World Sports
+cbs-usa|CBS USA-US|World Sports
+court-tv-usa|Court TV USA-US|World Sports
+cw-usa|CW USA-US|World Sports
+cnbc-usa|CNBC USA-US|World Sports
+comedy-central|Comedy Central-US|World Sports
+cartoon-network|Cartoon Network-US|World Sports
+cnn-usa|CNN USA-US|World Sports
+cinemax-usa|Cinemax USA-US|World Sports
+cuatro-spain|Cuatro Spain-ES|World Sports
+channel-4-uk|Channel 4 UK-GB|World Sports
+tv4-hockey|TV4 Hockey-SE|World Sports
+tv3-max|TV3 Max Denmark-DK|World Sports
+t-sports-bd|T Sports BD-BD|World Sports
+tv4-tennis|TV4 Tennis-SE|World Sports
+tv4-motor|TV4 Motor-SE|World Sports
+tv4-sport-live-4|TV4 Sport Live 1-SE|World Sports
+tv4-sport-live-4-alt1|TV4 Sport Live 2-SE|World Sports
+tv4-sport-live-4-alt2|TV4 Sport Live 3-SE|World Sports
+tv4-sport-live-4-alt3|TV4 Sport Live 4-SE|World Sports
+tv4-sportkanalen|TV4 Sportkanalen-SE|World Sports
+tv4-football-sweden|TV4 Football Sweden-SE|World Sports
+tennis-plus-10|Tennis+ 10-FR|World Sports
+tennis-plus-12|Tennis+ 12-FR|World Sports
+trt-spor-tr|TRT Spor TR-TR|World Sports
+usa-network|USA Network-US|World Sports
+universal-kids-usa|Universal Kids USA-US|World Sports
+univision|Univision-US|World Sports
+unimas|Unimas-US|World Sports
+viaplay-sports-1|Viaplay Sports 1 UK-GB|World Sports
+viaplay-sports-2|Viaplay Sports 2 UK-GB|World Sports
+vamos-spain|#Vamos Spain-ES|World Sports
+v-film-premiere|V Film Premiere-SE|World Sports
+v-film-family|V Film Family-SE|World Sports
+vodafone-sport|Vodafone Sport-PT|World Sports
+v-sport-motor-sweden|V Sport Motor Sweden-SE|World Sports
+vh1-usa|VH1 USA-US|World Sports
+veronica-nl-netherland|Veronica NL Netherland-NL|World Sports
+vtv-plus-uruguay|VTV+ Uruguay-UY|World Sports
+vice-tv|VICE TV-US|World Sports
+willow-cricket|Willow Cricket-US|World Sports
+willow-xtra|Willow XTRA-US|World Sports
+wwe-network|WWE Network-US|World Sports
+win-sports-plus-colombia|Win Sports+ Columbia-CO|World Sports
+wetv-usa|WETV USA-US|World Sports
+wdr-de|WDR DE-DE|World Sports
+ytv-ca|YTV CA-CA|World Sports
+yes-network-usa|YES Network USA-US|World Sports
+yes-movies-action-israel|Yes Movies Action Israel-IL|World Sports
+yes-movies-kids-israel|Yes Movies Kids Israel-IL|World Sports
+yes-movies-comedy-israel|Yes Movies Comedy Israel-IL|World Sports
+yes-tv-ca|Yes TV CA-CA|World Sports
+ziggo-sport-nl-6|Ziggo Sport NL-NL|World Sports
+ziggo-sport-nl-2|Ziggo Sport 2 NL-NL|World Sports
+ziggo-sport-nl-3|Ziggo Sport 3 NL-NL|World Sports
+ziggo-sport-nl-4|Ziggo Sport 4 NL-NL|World Sports
+ziggo-sport-nl-5|Ziggo Sport 5 NL-NL|World Sports
+ziggo-sport-nl-6-alt1|Ziggo Sport 6 NL-NL|World Sports
+zdf|ZDF DE-DE|World Sports
+zdf-info|ZDF Info DE-DE|World Sports
+6ter|6ter France-FR|World Sports
+20-mediaset|20 Mediaset Italy-IT|World Sports
+6eren|6'eren Denmark-DK|World Sports
+5-usa|5 USA-GB|World Sports
+3sat|3sat DE-DE|World Sports
+18-plus-18|18+ (Player-01)-WW|XXX
+18-plus-18-alt1|18+ (Player-02)-WW|XXX
+18-plus-18-alt2|18+ (Player-03)-WW|XXX
+18-plus-18-alt3|18+ (Player-04)-WW|XXX
+18-plus-18-alt4|18+ (Player-05)-WW|XXX
+18-plus-18-alt5|18+ (Player-06)-WW|XXX
+18-plus-18-alt6|18+ (Player-07)-WW|XXX
+18-plus-18-alt7|18+ (Player-08)-WW|XXX
+18-plus-18-alt8|18+ (Player-09)-WW|XXX
+18-plus-18-alt9|18+ (Player-10)-WW|XXX
+18-plus-18-alt10|18+ (Player-11)-WW|XXX
+18-plus-18-alt11|18+ (Player-12)-WW|XXX
+18-plus-18-alt12|18+ (Player-13)-WW|XXX
+18-plus-18-alt13|18+ (Player-14)-WW|XXX
+18-plus-18-alt14|18+ (Player-15)-WW|XXX
+18-plus-18-alt15|18+ (Player-16)-WW|XXX
+18-plus-18-alt16|18+ (Player-17)-WW|XXX
+18-plus-18-alt17|18+ (Player-18)-WW|XXX
+18-plus-18-alt18|18+ (Player-19)-WW|XXX
+18-plus-18-alt19|18+ (Player-20)-WW|XXX
